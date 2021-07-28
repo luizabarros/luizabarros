@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**luizabarros/luizabarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<main>
+  <h1>&#x1F44F Hi, I'm Luiza, a passionate front-end developer.</h1>
+  <h3>&#x1F50D About me</h3>
+  <div class="about">
+    <p>&#x1F4BB Since I earned my first computer, I started to develop a passion for technology. Then, when I was 16 I decided that I wanted to become a web             developer.</p>
+    <p>&#x1F4A1 My learning is based on creating projects and helping other developers and people. To check it out, search for @thecoderana on Instagram or click on     the link below.</p>
+  </div>
+  <h3>&#x2692 Technologies</h3>
+  <div class="tech-stack">
+    <p>Front-end with HTML and CSS</p>
+  </div>
+  <h3>&#x2615 Wanna chat?</h3>
+  <div class="social-media">
+    <p>@ me on <a href="https://www.instagram.com/thecoderana/">Instagram</a></p>
+    <a href="mailto:thecoderana@gmail.com">Send me an e-mail</a>
+  </div>
+</main>
