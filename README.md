@@ -7,11 +7,12 @@
   </div>
   <h3>&#x2692 Technologies</h3>
   <div class="tech-stack">
-    <p>Front-end with HTML and CSS</p>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
   </div>
   <h3>&#x2615 Wanna chat?</h3>
   <div class="social-media">
-    <p>@ me on <a href="https://www.instagram.com/thecoderana/">Instagram</a></p>
-    <a href="mailto:thecoderana@gmail.com">Send me an e-mail</a>
+    <a href="https://instagram.com/thecoderana"><img src="https://img.shields.io/badge/-@thecoderana_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>         </a>
+    <a href="mailto:thecoderana@gmail.com"><img src="https://img.shields.io/badge/-thecoderana@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
 </main>
