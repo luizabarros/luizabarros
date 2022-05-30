@@ -1,5 +1,5 @@
 <main>
-  <h1>&#x1F44F Hi, I'm Luiza, a passionate front-end developer.</h1>
+  <h1>&#x1F44F Hi, I'm Luiza, a passionate full stack developer student.</h1>
   <h3>&#x1F50D About me</h3>
   <div class="about">
     <p>&#x1F4BB Since I earned my first computer, I started to develop a passion for technology. Then, when I was 16 I decided that I wanted to become a web             developer.</p>
