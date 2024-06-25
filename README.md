@@ -26,7 +26,6 @@
   </div>
   <h3>&#x2615 Wanna chat?</h3>
   <div class="social-media">
-    <a href="https://instagram.com/thecoderana"><img src="https://img.shields.io/badge/-@thecoderana_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>         </a>
     <a href="mailto:thecoderana@gmail.com"><img src="https://img.shields.io/badge/-thecoderana@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/luiza-barros-thecoderana"><img src="https://img.shields.io/badge/-Luiza%20Barros-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   </div>
