@@ -3,7 +3,7 @@
   <h3>&#x1F50D About me</h3>
   <div class="about">
     <p>&#x1F4BB Since I earned my first computer, I started to develop a passion for technology. Then, when I was 16 I decided that I wanted to become a web             developer.</p>
-    <p>&#x1F4A1 My learning is based on creating projects and helping other developers and people. To check it out, search for @thecoderana on Instagram or click on     the link below.</p>
+    <p>&#x1F4A1 My learning is based on creating projects and helping other developers and people.</p>
   </div>
   <h3>&#x2692 Technologies</h3>
   <div class="tech-stack">
