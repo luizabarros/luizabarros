@@ -9,7 +9,7 @@ My work focuses on front-end architecture, system refactoring, performance impro
 </p>
 
 <p>
-I have experience working on real-world products such as financial systems, hospital platforms and e-commerce applications, collaborating closely with stakeholders and making technical decisions under real business constraints.
+I have experience working on financial systems, hospital platforms and e-commerce applications, collaborating closely with stakeholders and delivering production-ready solutions.
 </p>
 
 ---
@@ -17,38 +17,61 @@ I have experience working on real-world products such as financial systems, hosp
 <h3>⚡ What I work with</h3>
 
 <ul>
-<li>Designing and refactoring complex front-end architectures</li>
-<li>Building scalable APIs and integrations</li>
-<li>Improving performance and maintainability of production systems</li>
-<li>Implementing CI/CD pipelines and containerized environments</li>
-<li>Applying AI to real business workflows</li>
+<li>Front-end architecture and complex UI systems</li>
+<li>Scalable APIs and integrations</li>
+<li>Performance optimization and refactoring</li>
+<li>CI/CD pipelines and containerized environments</li>
+<li>AI applied to real business workflows</li>
 </ul>
 
 ---
 
 <h3>🛠 Tech Stack</h3>
 
-<div class="tech-stack">
-
 <b>Frontend</b><br>
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 
 <br><br>
 
 <b>Backend</b><br>
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png"></code>
 
 <br><br>
 
-<b>Infrastructure</b><br>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<b>Databases</b><br>
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
 
-</div>
+<br><br>
+
+<b>Infrastructure & DevOps</b><br>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ci/ci.png"></code>
+
+<br><br>
+
+<b>AI & Automation</b><br>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+
+<br><br>
+
+<b>Testing</b><br>
+
+Jest • Cypress
 
 ---
 
