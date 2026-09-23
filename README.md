@@ -4,7 +4,7 @@
 <h3>Full Stack Software Developer</h3>
 
 <p>
-Full Stack developer with 3+ years of experience building scalable web applications and digital platforms.
+Full Stack developer with experience building scalable web applications and digital platforms.
 My work focuses on front-end architecture, system refactoring, performance improvements and API integrations.
 </p>
 
