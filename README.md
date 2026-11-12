@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Luiza%20Barros&fontSize=55&fontColor=ffffff&color=0:6A5ACD,100:00BFFF&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=55" width="100%" />
-
   <h3>Full Stack Software Engineer | Backend & Architecture | AI-Driven Development</h3>
 
   <p>
